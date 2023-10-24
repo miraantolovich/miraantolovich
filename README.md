@@ -13,9 +13,9 @@ I'm a passionate software developer and computer science enthusiast with a backg
 
 Here are some projects I've worked on:
 
-- Stock Display System: A solo project where I designed and developed a user-friendly website, integrating data APIs and creating a Python API for enhanced data retrieval.
+- [Stock Display System](https://github.com/miraantolovich/stock_predictor): A solo project where I designed and developed a user-friendly website, integrating data APIs and creating a Python API for enhanced data retrieval.
 - Machine Learning Trading: I built a Python-based machine learning trading strategy learner, optimizing trading strategies and risk management.
-- Riptide: As a team lead and developer, I was responsible for the design and implementation of key gameplay components.
+- [Riptide](https://github.com/treecone/ProjectRiptide): As a team lead and developer, I was responsible for the design and implementation of key gameplay components.
 
 ## 🌱 Currently Learning
 
